@@ -1,48 +1,55 @@
-👋 Hi, I'm Mohsin Ali
+# 👋 Hi, I'm Mohsin Ali
 
-🌐 Frontend Specialist | Passionate Technologist
+## 🌐 Frontend Specialist | Passionate Technologist
 
+## 🧑‍💻 About Me
 
-🧑‍💻 About Me
+I'm a Front-end developer creating stunning, functional, and user-friendly websites. Currently pursuing my passion for technology with a focus on Frontend Development, I specialize in building seamless frontend experiences.
 
-I'm a frontend developer creating stunning, functional, and user-friendly websites. Currently pursuing my passion for technology with a focus on Frontend Development, I specialize in building seamless frontend experiences.
+📍 From Gujranwala, Pakistan
 
-📍 From: Gujranwala, Pakistan
+## 🎓 Education
 
-🎓 Education: Bachelor’s in Information Technology (GCUF)
+Bachelor’s in Information Technology (GCUF)
 
-📜 Certifications:
+## 📜 Certifications:
 
 Microsoft Advanced Web App Development (NAVTTC)
 
 Frontend Development (Mind Luster)
 
-🛠️ Skills
+## 🛠️ Skills
 
 Programming & Web Development:
 
-Frontend: HTML5, CSS3, Bootstrap, JavaScript, ReactJS
+### Frontend 
 
-Tools: GitHub, MS Office
+HTML5, CSS3, Bootstrap, JavaScript, ReactJS
 
-Projects:
+### Tools 
+
+GitHub, MS Office
+
+## Projects
 
 FastFIX: Online home services management system
 
 Digital Library: Advanced library management with book-reading functionality
 
-Portfolio Websites: Showcasing diverse skills and creative designs
-
 Care Plus: Hospital Management  System 
 
-🌟 Current Work
+Portfolio Websites: Showcasing diverse skills and creative designs
+
+## 🌟 Current Work
 
 🚀 Freelancer on Fiverr: Expert frontend developer
 
 👉 Frontend Intern at Progexp Solutions.
 
+## Contact me 
 📞 +923245620210
 
-✨ Fun Fact
+
+## ✨ Fun Fact
 I started coding by building a portfolio website system and haven’t looked back since!
 
