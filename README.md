@@ -44,7 +44,9 @@ Portfolio Websites: Showcasing diverse skills and creative designs
 
 🚀 Freelancer on Fiverr: Expert frontend developer
 
-👉 Frontend Intern at Progexp Solutions.
+## 🌟 Experience
+
+👉 Frontend Intern at Progexp Solutions (Nov 2024 to Jan 2025)
 
 ## Contact me 
 📞 +923245620210
