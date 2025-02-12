@@ -28,7 +28,7 @@ HTML5, CSS3, Bootstrap, JavaScript, ReactJS
 
 ### Tools 
 
-GitHub, MS Office
+GitHub, MS Office, VSCode
 
 ## Projects
 
