@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Mohsin Ali
 
-## 🌐 Frontend Specialist | Passionate Technologist
+## 🌐 IT Specialist | Passionate Technologist
 
 ## 🧑‍💻 About Me
 
-I'm a Front-end developer creating stunning, functional, and user-friendly websites. Currently pursuing my passion for technology with a focus on Frontend Development, I specialize in building seamless frontend experiences.
+I'm a Front-end developer certifed from Pearson Ceritport creating stunning, functional, and user-friendly websites. Currently pursuing my passion for technology with a focus on Frontend Development, I specialize in building seamless frontend experience
 
 📍 From Gujranwala, Pakistan
 
@@ -13,8 +13,9 @@ I'm a Front-end developer creating stunning, functional, and user-friendly websi
 Bachelor’s in Information Technology (GCUF)
 
 ## 📜 Certifications:
+IT Specialist - Html5 Application Development (Pearson Certiport)
 
-Microsoft Advanced Web App Development (NAVTTC)
+Advanced Web App Development (NAVTTC)
 
 Frontend Development (Mind Luster)
 
